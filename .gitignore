@@ -1,0 +1,24 @@
+# --- Build Artifacts ---
+build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.d
+
+# --- IDE & Editor Configs (Don't force your editor settings on others -_-') ---
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# --- Toolchain Specifics ---
+# If you have local toolchain logs or temp files
+*.gdb
+
+# --- OS Specifics ---
+Thumbs.db
+.dirstruct
