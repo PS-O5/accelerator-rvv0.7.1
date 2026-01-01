@@ -39,6 +39,7 @@ SRCS += $(PLATFORM_DIR)/irq.c
 SRCS += $(PLATFORM_DIR)/timer.c
 SRCS += $(PLATFORM_DIR)/uart.c
 SRCS += $(PORT_DIR)/portASM.S
+SRCS += $(PLATFORM_DIR)/vtimer.c
 
 # App
 SRCS += $(APP_DIR)/main.c
