@@ -1,4 +1,4 @@
-# RISC-V C910 [TH1520] Accelerator Development Platform (On haitus till Jan'26 end)
+# RISC-V C910 [TH1520] Accelerator Development Platform (On haitus till 04.02.2026)
 
 A minimal, bare-metal development framework for the T-Head C910 (RISC-V 64-bit) processor, running FreeRTOS. This project serves as a baseline for developing and testing custom hardware accelerators (RoCC/MMIO). This project explores a full-stack **Host–Accelerator architecture** for accelerating equivariant neural networks (MACE)
 
